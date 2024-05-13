@@ -1,0 +1,207 @@
+[2024-05-06 14:14:16] INFO [test_all: run_all.py, 9] =============运行所有的case==========
+[2024-05-06 14:14:17] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 14:14:17] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 14:14:17] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 127.0.0.1:8000
+[2024-05-06 14:14:19] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 14:14:19] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 14:14:19] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 127.0.0.1:8000
+[2024-05-06 14:14:21] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:14:23] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:14:25] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:14:27] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:14:29] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:14:31] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:14:33] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:14:35] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:14:37] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 14:14:37] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 14:14:37] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:14:39] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='test3'
+[2024-05-06 14:14:39] DEBUG [query_db: db1.py, 27] (49, '9c00be50-a267-4a88-9052-2610cac62f49', 'test3', 'UfVAK5tophta8zAlA31QI//l/YVoSJjkugfQbYlZZCaU++fdPlrL7IwqSbNx+j3ZJeX3Pz6yuIFkQfq15nGpdB1t8hAMbFSdhiy9Z8XB3GgggUWBwCfkruLRDaQuiVkTjhjO7HN72ZOH1vFLC/ErUVXg/On67hmDxwRueRxU6l0=', None, None, None, None, 1, None, 1, 1, None, datetime.datetime(2024, 4, 19, 15, 28, 41), None, datetime.datetime(2024, 4, 19, 15, 28, 41), b'\x00', None)
+[2024-05-06 14:14:39] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:20] INFO [test_all: run_all.py, 9] =============运行所有的case==========
+[2024-05-06 14:15:21] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 14:15:21] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 14:15:21] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 127.0.0.1:8000
+[2024-05-06 14:15:21] DEBUG [_make_request: connectionpool.py, 546] http://127.0.0.1:8000 "POST /api/student/user/register HTTP/1.1" 200 None
+[2024-05-06 14:15:21] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 14:15:21] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 14:15:21] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 127.0.0.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://127.0.0.1:8000 "POST /api/student/user/register HTTP/1.1" 200 None
+[2024-05-06 14:15:22] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 14:15:22] DEBUG [query_db: db1.py, 27] (581, '802348a5-2ad2-4b77-bd58-3c59805dba88', 'peter', 'E+28bSvzgnyd6HxCsKgaTk/o2tfi7/C3qpQeSKd4j3YXBzsmWvBeTzfAmAd1nK8nwBBlnVxiCBOjKTjhcym/ZPHw4W0IETF42YbBOF+bWSXCjXnVHHIstfftUXhY4eQ84ioRL4BWTBXs0xxiQiBIapN8U61N4lFrsn/5d5aqdiI=', None, None, None, None, 1, None, 1, 1, None, datetime.datetime(2024, 5, 6, 14, 15, 22), None, datetime.datetime(2024, 5, 6, 14, 15, 22), b'\x00', None)
+[2024-05-06 14:15:22] DEBUG [change_db: db1.py, 39] delete from t_user where user_name='peter'
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 85
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 85
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 274
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 274
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 14] 测试用例：login_ok
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 15] url：http://192.168.55.1:8000/api/user/login
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 16] 请求参数：{"userName": "student", "password": "123456", "remember": false}
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 17] 期望结果：成功
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 18] 实际结果：{"code":1,"message":"成功","response":{"id":null,"userUuid":null,"userName":"student","password":null,"realName":null,"age":null,"sex":null,"birthDay":null,"userLevel":null,"phone":null,"role":null,"status":null,"imagePath":"https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg","createTime":null,"modifyTime":null,"lastActiveTime":null,"deleted":null,"wxOpenId":null}}
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 85
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 14] 测试用例：login_err1
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 15] url：http://192.168.55.1:8000/api/user/login
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 16] 请求参数：{"userName": "admin", "password": "123456", "remember": false}
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 17] 期望结果：用户名或密码错误
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 18] 实际结果：{"code":402,"message":"用户名或密码错误","response":null}
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 85
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 14] 测试用例：login_err2
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 15] url：http://192.168.55.1:8000/api/user/login
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 16] 请求参数：{"userName": "", "password": "123456", "remember": false}
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 17] 期望结果：用户名或密码错误
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 18] 实际结果：{"code":402,"message":"用户名或密码错误","response":null}
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 85
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 14] 测试用例：login_err3
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 15] url：http://192.168.55.1:8000/api/user/login
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 16] 请求参数：{"userName": "peter", "password": "", "remember": false}
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 17] 期望结果：用户名或密码错误
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 18] 实际结果：{"code":402,"message":"用户名或密码错误","response":null}
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/student/user/register HTTP/1.1" 200 None
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 14] 测试用例：test_reg_err
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 15] url：http://192.168.55.1:8000/api/student/user/register
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 16] 请求参数：{"userName": "student", "password": "123456", "userLevel": 1}
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 17] 期望结果：{"code":2,"message":"用户已存在","response":null}
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 18] 实际结果：{"code":2,"message":"用户已存在","response":null}
+[2024-05-06 14:15:22] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 14:15:22] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/student/user/register HTTP/1.1" 200 None
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 14] 测试用例：test_reg_ok
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 15] url：http://192.168.55.1:8000/api/student/user/register
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 16] 请求参数：{"userName": "peter", "password": "123456", "userLevel": 1}
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 17] 期望结果：{"code":1,"message":"成功","response":null}
+[2024-05-06 14:15:22] INFO [log_case_info: case_log.py, 18] 实际结果：{"code":1,"message":"成功","response":null}
+[2024-05-06 14:15:22] DEBUG [change_db: db1.py, 39] delete from t_user where user_name='peter'
+[2024-05-06 14:15:22] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='test3'
+[2024-05-06 14:15:22] DEBUG [query_db: db1.py, 27] (49, '9c00be50-a267-4a88-9052-2610cac62f49', 'test3', 'UfVAK5tophta8zAlA31QI//l/YVoSJjkugfQbYlZZCaU++fdPlrL7IwqSbNx+j3ZJeX3Pz6yuIFkQfq15nGpdB1t8hAMbFSdhiy9Z8XB3GgggUWBwCfkruLRDaQuiVkTjhjO7HN72ZOH1vFLC/ErUVXg/On67hmDxwRueRxU6l0=', None, None, None, None, 1, None, 1, 1, None, datetime.datetime(2024, 4, 19, 15, 28, 41), None, datetime.datetime(2024, 4, 19, 15, 28, 41), b'\x00', None)
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/student/user/register HTTP/1.1" 200 None
+[2024-05-06 14:15:22] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 14:15:22] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 14:15:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 14:15:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/student/user/register HTTP/1.1" 200 None
+[2024-05-06 14:15:22] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 14:15:22] DEBUG [query_db: db1.py, 27] (583, '40549d31-8b06-42c2-980f-f884e96b9a4d', 'peter', 'cjzuOcwmb+aP4N+X9ptJzyKVqihBjy2Lb1v9doHg28Ml4/LjBJs2XCuoMLp1YYyA9l4N4uNjTovr4DwccRqriwTB656wYorZ8Tu/ltyJIaAP8EWBC0fNU/jf5fA+SG3L76VtW0BQyfKOGI8N0TgAJdeTrEWKyHNs780LTWFBQJ4=', None, None, None, None, 1, None, 1, 1, None, datetime.datetime(2024, 5, 6, 14, 15, 23), None, datetime.datetime(2024, 5, 6, 14, 15, 23), b'\x00', None)
+[2024-05-06 14:15:22] DEBUG [change_db: db1.py, 39] delete from t_user where user_name='peter'
+[2024-05-06 14:15:23] INFO [send_email: send_email.py, 49] ====================发送邮件成功=======================
+[2024-05-06 14:15:23] INFO [test_all: run_all.py, 21] ===================测试结束===================
+[2024-05-06 16:04:24] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:04:24] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:04:24] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:04:24] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:07:08] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:07:08] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:07:08] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:07:08] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:07:23] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:07:23] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:07:23] DEBUG [change_db: db1.py, 39] delete from t_user where user_name='peter'
+[2024-05-06 16:08:00] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:08:00] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:08:00] DEBUG [change_db: db1.py, 39] delete from t_user where user_name='peter'
+[2024-05-06 16:11:16] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:11:16] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:11:16] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:11:16] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:12:03] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:12:03] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:12:03] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:12:03] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:23:39] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:23:39] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:23:39] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:23:39] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:23:39] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:23:39] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:23:39] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:23:39] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:25:54] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:25:54] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:25:54] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:25:54] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:25:54] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:25:54] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:25:54] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:25:54] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:26:39] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:26:39] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:26:39] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:26:39] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:26:59] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:26:59] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:26:59] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:26:59] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:28:28] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:28:28] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:28:28] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:28:28] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:28:28] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:28:28] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/student/user/register HTTP/1.1" 200 None
+[2024-05-06 16:30:24] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:30:24] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 None
+[2024-05-06 16:30:42] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:30:42] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 None
+[2024-05-06 16:31:06] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:31:06] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 None
+[2024-05-06 16:32:22] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:32:22] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 None
+[2024-05-06 16:33:25] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:33:25] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 None
+[2024-05-06 16:33:49] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:33:49] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 None
+[2024-05-06 16:34:53] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:34:53] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:34:53] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:34:53] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:35:26] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:35:26] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:36:16] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:36:16] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:37:01] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:37:01] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 None
+[2024-05-06 16:38:07] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:38:08] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 274
+[2024-05-06 16:38:08] INFO [log_case_info: case_log.py, 14] 测试用例：None
+[2024-05-06 16:38:08] INFO [log_case_info: case_log.py, 15] url：http://192.168.55.1:8000/api/user/login
+[2024-05-06 16:38:08] INFO [log_case_info: case_log.py, 16] 请求参数：{ "userName":"student", "password": "123456", "remember": false }
+[2024-05-06 16:38:08] INFO [log_case_info: case_log.py, 17] 期望结果：成功
+[2024-05-06 16:38:08] INFO [log_case_info: case_log.py, 18] 实际结果：{'code': 1, 'message': '成功', 'response': {'id': None, 'userUuid': None, 'userName': 'student', 'password': None, 'realName': None, 'age': None, 'sex': None, 'birthDay': None, 'userLevel': None, 'phone': None, 'role': None, 'status': None, 'imagePath': 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', 'createTime': None, 'modifyTime': None, 'lastActiveTime': None, 'deleted': None, 'wxOpenId': None}}
+[2024-05-06 16:38:20] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:38:20] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 85
+[2024-05-06 16:38:20] INFO [log_case_info: case_log.py, 14] 测试用例：None
+[2024-05-06 16:38:20] INFO [log_case_info: case_log.py, 15] url：http://192.168.55.1:8000/api/user/login
+[2024-05-06 16:38:20] INFO [log_case_info: case_log.py, 16] 请求参数：{ "userName":"admin", "password": "123456", "remember": false }
+[2024-05-06 16:38:20] INFO [log_case_info: case_log.py, 17] 期望结果：用户名或密码错误
+[2024-05-06 16:38:20] INFO [log_case_info: case_log.py, 18] 实际结果：{'code': 402, 'message': '用户名或密码错误', 'response': None}
+[2024-05-06 16:38:25] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:38:25] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:38:25] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='student'
+[2024-05-06 16:38:25] DEBUG [query_db: db1.py, 27] (1, 'd2d29da2-dcb3-4013-b874-727626236f47', 'student', 'D1AGFL+Gx37t0NPG4d6biYP5Z31cNbwhK5w1lUeiHB2zagqbk8efYfSjYoh1Z/j1dkiRjHU+b0EpwzCh8IGsksJjzD65ci5LsnodQVf4Uj6D3pwoscXGqmkjjpzvSJbx42swwNTA+QoDU8YLo7JhtbUK2X0qCjFGpd+8eJ5BGvk=', '学生', 18, 1, datetime.datetime(2019, 9, 1, 0, 0), 1, '19171171610', 1, 1, 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', datetime.datetime(2019, 9, 7, 18, 55, 2), datetime.datetime(2023, 12, 4, 11, 32, 1), None, b'\x00', None)
+[2024-05-06 16:38:37] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:38:37] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:39:14] DEBUG [query_db: db1.py, 22] select * from t_user where user_name ='peter'
+[2024-05-06 16:39:14] DEBUG [query_db: db1.py, 27] None
+[2024-05-06 16:40:27] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:40:27] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 274
+[2024-05-06 16:40:27] INFO [log_case_info: case_log.py, 14] 测试用例：None
+[2024-05-06 16:40:27] INFO [log_case_info: case_log.py, 15] url：http://192.168.55.1:8000/api/user/login
+[2024-05-06 16:40:27] INFO [log_case_info: case_log.py, 16] 请求参数：{ "userName":"student", "password": "123456", "remember": false }
+[2024-05-06 16:40:27] INFO [log_case_info: case_log.py, 17] 期望结果：成功
+[2024-05-06 16:40:27] INFO [log_case_info: case_log.py, 18] 实际结果：{'code': 1, 'message': '成功', 'response': {'id': None, 'userUuid': None, 'userName': 'student', 'password': None, 'realName': None, 'age': None, 'sex': None, 'birthDay': None, 'userLevel': None, 'phone': None, 'role': None, 'status': None, 'imagePath': 'https://www.mindskip.net:9008/image/ba607a75-83ba-4530-8e23-660b72dc4953/头像.jpg', 'createTime': None, 'modifyTime': None, 'lastActiveTime': None, 'deleted': None, 'wxOpenId': None}}
+[2024-05-06 16:40:33] DEBUG [_new_conn: connectionpool.py, 244] Starting new HTTP connection (1): 192.168.55.1:8000
+[2024-05-06 16:40:33] DEBUG [_make_request: connectionpool.py, 546] http://192.168.55.1:8000 "POST /api/user/login HTTP/1.1" 200 85
+[2024-05-06 16:40:33] INFO [log_case_info: case_log.py, 14] 测试用例：None
+[2024-05-06 16:40:33] INFO [log_case_info: case_log.py, 15] url：http://192.168.55.1:8000/api/user/login
+[2024-05-06 16:40:33] INFO [log_case_info: case_log.py, 16] 请求参数：{ "userName":"admin", "password": "123456", "remember": false }
+[2024-05-06 16:40:33] INFO [log_case_info: case_log.py, 17] 期望结果：用户名或密码错误
+[2024-05-06 16:40:33] INFO [log_case_info: case_log.py, 18] 实际结果：{'code': 402, 'message': '用户名或密码错误', 'response': None}
